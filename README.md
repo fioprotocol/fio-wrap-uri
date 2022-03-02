@@ -7,7 +7,7 @@ an NFT ID number, returns a URI. This URI can then be called to retrieve JSON-fo
 For FIO Wrapped domains, the tokenURI field is standardized, and includes a domain name of the FIO Domain being wrapped. In this example "sampledomain" is being passed in:
 
 ```
-https://metadata.fioprotocol.io/domainnft?domain=sampledomain
+https://metadata.fioprotocol.io/domainnft/sampledomain.json
 ```
 
 It returns auto-generated JSON for the Wrapped FIO Domain NFT similar to:
