@@ -12,7 +12,7 @@ class FIOCtrl {
       try {
           let tempRes = {
               "name": "FIO Domain: "+realdomain,
-              "description": "Create FIO Addresses on your custom FIO Domain.",
+              "description": "Create FIO Crypto Handles on your custom FIO Domain.",
               "image": "https://metadata.fioprotocol.io/nftimage/"+realdomain+".svg",
           }
           res.send(tempRes)
