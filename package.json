@@ -1,7 +1,7 @@
 {
-  "name": "oracle",
+  "name": "@fioprotocol/fio-wrap-uri",
   "version": "1.0.0",
-  "description": "Oracle for moving tokens and code to and from the FIO chain",
+  "description": "Wrapping URI service to standardize JSON for a Wrapped FIO Domain",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
